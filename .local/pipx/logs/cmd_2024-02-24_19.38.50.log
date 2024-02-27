@@ -1,0 +1,41 @@
+   137.2ms (setup:755): 2024-02-24 19:38:50
+   137.3ms (setup:756): /usr/bin/pipx install pybase16-builder
+   137.4ms (setup:757): pipx version is 1.1.0
+   137.4ms (setup:758): Default python interpreter is '/usr/bin/python3'
+   137.4ms (mkdir:81): creating directory /home/alex/.local/pipx/venvs
+   137.5ms (mkdir:81): creating directory /home/alex/.local/pipx/.cache
+   137.6ms (setup:766): Adding CACHEDIR.TAG to cache directory
+   140.1ms (package_name_from_spec:323): Determined package name: pybase16-builder
+   140.3ms (package_name_from_spec:324): Package name determined in 0.0s
+   143.7ms (run_subprocess:173): running /usr/bin/python3 -m venv --without-pip /home/alex/.local/pipx/venvs/pybase16-builder
+   207.9ms (run_subprocess:186): stdout:
+   208.0ms (run_subprocess:188): stderr:
+   208.0ms (run_subprocess:189): returncode: 0
+   208.7ms (run_subprocess:173): running /usr/bin/python3 -m venv --clear /home/alex/.local/pipx/shared
+  4772.1ms (run_subprocess:186): stdout:
+  4772.2ms (run_subprocess:188): stderr:
+  4772.2ms (run_subprocess:189): returncode: 0
+  4772.5ms (upgrade:91): Upgrading shared libraries in /home/alex/.local/pipx/shared
+  4772.9ms (run_subprocess:173): running /home/alex/.local/pipx/shared/bin/python -m pip --disable-pip-version-check install --force-reinstall -q --upgrade pip setuptools wheel
+ 10214.5ms (run_subprocess:186): stdout:
+ 10214.6ms (run_subprocess:188): stderr:
+ 10214.6ms (run_subprocess:189): returncode: 0
+ 10214.8ms (run_subprocess:173): running /home/alex/.local/pipx/venvs/pybase16-builder/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+ 10237.9ms (run_subprocess:186): stdout: /home/alex/.local/pipx/venvs/pybase16-builder/lib/python3.11/site-packages
+ 10238.0ms (run_subprocess:189): returncode: 0
+ 10238.3ms (run_subprocess:173): running /home/alex/.local/pipx/shared/bin/python -c import sysconfig; print(sysconfig.get_path('purelib'))
+ 10253.2ms (run_subprocess:186): stdout: /home/alex/.local/pipx/shared/lib/python3.11/site-packages
+ 10253.3ms (run_subprocess:189): returncode: 0
+ 10253.5ms (run_subprocess:173): running /home/alex/.local/pipx/venvs/pybase16-builder/bin/python --version
+ 10254.9ms (run_subprocess:186): stdout: Python 3.11.2
+ 10255.0ms (run_subprocess:188): stderr:
+ 10255.0ms (run_subprocess:189): returncode: 0
+ 10255.2ms (_parsed_package_to_package_or_url:128): cleaned package spec: pybase16-builder
+ 10255.5ms (run_subprocess:173): running /home/alex/.local/pipx/venvs/pybase16-builder/bin/python -m pip install pybase16-builder
+ 13341.4ms (run_subprocess:189): returncode: 0
+ 13342.1ms (run_subprocess:173): running <fetch_info_in_venv commands>
+ 13381.6ms (run_subprocess:186): stdout: {"sys_path": ["/usr/lib/python311.zip", "/usr/lib/python3.11", "/usr/lib/python3.11/lib-dynload", "/home/alex/.local/pipx/venvs/pybase16-builder/lib/python3.11/site-packages", "/home/alex/.local/pipx/shared/lib/python3.11/site-packages"], "python_version": "3.11.2", "environment": {"implementation_name": "cpython", "implementation_version": "3.11.2", "os_name": "posix", "platform_machine": "x86_64", "platform_release": "6.1.0-18-amd64", "platform_system": "Linux", "platform_version": "#1 SMP PREEMPT_DYNAMIC Debian 6.1.76-1 (2024-02-01)", "python_full_version": "3.11.2", "platform_python_implementation": "CPython", "python_version": "3.11", "sys_platform": "linux"}}
+ 13381.7ms (run_subprocess:189): returncode: 0
+ 13394.4ms (get_venv_metadata_for_package:303): get_venv_metadata_for_package: 53ms
+ 13394.6ms (_parsed_package_to_package_or_url:128): cleaned package spec: pybase16-builder
+ 13396.3ms (cli:830): pipx finished.

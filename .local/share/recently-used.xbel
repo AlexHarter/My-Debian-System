@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/alex/Downloads/CascadiaCode.zip" added="2024-02-15T18:34:13.874573Z" modified="2024-02-15T18:34:14.123377Z" visited="2024-02-15T18:34:13.874575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-15T18:34:14.123369Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/install.sh" added="2024-02-15T18:40:48.475416Z" modified="2024-02-15T18:40:48.725805Z" visited="2024-02-15T18:40:48.475418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-15T18:40:48.725799Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Pictures/wallpapers/mushroom/Mushrooms_in_Autumn_by_Fish_Lake,_Willamette_National_Forest_(34503816470).jpg" added="2024-02-15T22:01:18.756829Z" modified="2024-02-15T22:01:19.007934Z" visited="2024-02-15T22:01:18.756829Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-15T22:01:19.007928Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Pictures/wallpapers/forest/Davy_Crockett_National_Forest,_Houston_County,_Texas,_USA_(May_2019).jpg" added="2024-02-16T14:02:33.681798Z" modified="2024-02-16T14:02:33.919460Z" visited="2024-02-16T14:02:33.681801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T14:02:33.919451Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Pictures/wallpapers/forest/Longleaf_pine_(Pinus_palustris),_Sam_Houston_National_Forest,_Walker_County,_Texas,_USA_(September_2020).jpg" added="2024-02-16T14:03:11.398211Z" modified="2024-02-16T14:03:11.634754Z" visited="2024-02-16T14:03:11.398213Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T14:03:11.634746Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Pictures/wallpapers/forest/USA_-_Texas_-_Sam_Houston_National_Forest_-_Lake_Conroe.jpg" added="2024-02-16T14:03:40.596630Z" modified="2024-02-16T14:03:40.847369Z" visited="2024-02-16T14:03:40.596632Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T14:03:40.847361Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Antiphons/vivo_ego-syn.png" added="2024-02-16T16:56:12.847654Z" modified="2024-02-16T16:56:13.098786Z" visited="2024-02-16T16:56:12.847657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T16:56:13.098779Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Antiphons/vivo_ego-new_solesmes.png" added="2024-02-16T16:59:23.853964Z" modified="2024-02-16T16:59:24.105064Z" visited="2024-02-16T16:59:23.853966Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T16:59:24.105049Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Hymns/jam_lucis_orto_sidere-lent-solesmes.svg" added="2024-02-16T17:00:52.972979Z" modified="2024-02-16T17:00:53.223386Z" visited="2024-02-16T17:00:52.972981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T17:00:53.223378Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Hymns/jam_lucis_orto_sidere-lent-solesmes.png" added="2024-02-16T17:01:29.200132Z" modified="2024-02-16T17:01:29.449927Z" visited="2024-02-16T17:01:29.200134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T17:01:29.449919Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Hymns/te_lucis_ante_terminum-lent-selesmes.svg" added="2024-02-16T20:35:28.195397Z" modified="2024-02-16T20:35:28.446665Z" visited="2024-02-16T20:35:28.195399Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T20:35:28.446658Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Hymns/te_lucis_ante_terminum-lent-selesmes.png" added="2024-02-16T20:35:46.533909Z" modified="2024-02-16T20:35:46.784950Z" visited="2024-02-16T20:35:46.533911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T20:35:46.784942Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Pictures/wallpapers/mushroom/Mushroom_view.jpg" added="2024-02-16T22:08:56.957644Z" modified="2024-02-16T22:09:17.276369Z" visited="2024-02-16T22:08:56.957645Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-16T22:09:17.276366Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Music%20Composition/Sacred/Vivo_ego_chant" added="2024-02-17T17:12:53.064017Z" modified="2024-02-17T17:13:15.940422Z" visited="2024-02-17T17:12:53.064019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-02-17T17:13:15.689869Z" count="2"/>
+          <bookmark:application name="org.frescobaldi.Frescobaldi" exec="&apos;gio open %u&apos;" modified="2024-02-17T17:13:15.940416Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Music%20Composition/Sacred/Vivo_ego-chant.ly" added="2024-02-17T17:13:45.297844Z" modified="2024-02-17T17:13:45.547523Z" visited="2024-02-17T17:13:45.297847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-02-17T17:13:45.297854Z" count="1"/>
+          <bookmark:application name="org.frescobaldi.Frescobaldi" exec="&apos;gio open %u&apos;" modified="2024-02-17T17:13:45.547515Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/test.ly" added="2024-02-17T17:18:28.718021Z" modified="2024-02-17T17:18:28.968306Z" visited="2024-02-17T17:18:28.718024Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-02-17T17:18:28.718029Z" count="1"/>
+          <bookmark:application name="org.frescobaldi.Frescobaldi" exec="&apos;gio open %u&apos;" modified="2024-02-17T17:18:28.968297Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Little-Office/Music/Antiphons/an-beata_mater-new_solesmes.png" added="2024-02-17T20:39:10.702799Z" modified="2024-02-17T20:39:10.702806Z" visited="2024-02-17T20:39:10.702800Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-17T20:39:10.702802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/Catppuccin-Mocha-Blue.kvconfig" added="2024-02-18T01:35:05.524357Z" modified="2024-02-18T01:35:05.775090Z" visited="2024-02-18T01:35:05.524359Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-18T01:35:05.775087Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/Catppuccin-Mocha-Blue.svg" added="2024-02-18T01:35:17.723292Z" modified="2024-02-18T01:35:17.974129Z" visited="2024-02-18T01:35:17.723295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-18T01:35:17.974123Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Antiphons/vivo_ego-proportional.png" added="2024-02-18T23:57:22.384288Z" modified="2024-02-18T23:59:13.671931Z" visited="2024-02-18T23:57:22.384290Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-18T23:59:13.671926Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Monastic-Prime-Compline/Materials/Antiphons/vivo_ego-proportional.gabc" added="2024-02-18T23:59:34.371142Z" modified="2024-02-18T23:59:34.607121Z" visited="2024-02-18T23:59:34.371145Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-18T23:59:34.607111Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/.config/fish/themes/Catppuccin%20Mocha.theme" added="2024-02-19T01:46:15.809391Z" modified="2024-02-19T01:46:16.059905Z" visited="2024-02-19T01:46:15.809392Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-19T01:46:16.059898Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/.config/wezterm/wezterm.lua" added="2024-02-19T02:08:17.651767Z" modified="2024-02-19T02:08:33.335460Z" visited="2024-02-19T02:08:17.651769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="com.discordapp.Discord" exec="&apos;gio open %u&apos;" modified="2024-02-19T02:08:33.280812Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-02-19T02:08:33.335451Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/Liturgical/Little-Office/Music/Antiphons/an-assumpta_est-proportional.png" added="2024-02-19T15:06:02.651585Z" modified="2024-02-19T15:06:02.900817Z" visited="2024-02-19T15:06:02.651586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-19T15:06:02.900812Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/birding_brochure_2021_7.pdf" added="2024-02-19T15:44:06.446671Z" modified="2024-02-19T15:44:06.697075Z" visited="2024-02-19T15:44:06.446673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-19T15:44:06.697070Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Documents/Harter-Cervantes%20Family/birding_brochure_2021_7_list.pdf" added="2024-02-19T15:44:21.938633Z" modified="2024-02-19T15:44:22.189532Z" visited="2024-02-19T15:44:21.938635Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-19T15:44:22.189525Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Pictures/wallpapers/local/El_Franco_Lee_Park.jpg" added="2024-02-20T15:31:34.119294Z" modified="2024-02-25T02:01:04.271966Z" visited="2024-02-20T15:31:34.119296Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-20T15:31:34.119304Z" count="1"/>
+          <bookmark:application name="com.github.themix_project.Oomox" exec="&apos;gio open %u&apos;" modified="2024-02-25T02:01:04.195667Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-02-25T02:01:04.271961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/wezterm-20240203-110809-5046fc22.Debian12.deb" added="2024-02-22T23:58:02.451024Z" modified="2024-02-22T23:58:02.699845Z" visited="2024-02-22T23:58:02.451027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-22T23:58:02.699836Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/Redcore.Linux.Hardened.2401.Tarazed.KDE.amd64.iso" added="2024-02-23T23:42:16.304833Z" modified="2024-02-23T23:42:16.304838Z" visited="2024-02-23T23:42:16.304834Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-23T23:42:16.304836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/livegui-amd64-20240211T161834Z.iso" added="2024-02-24T02:27:44.399394Z" modified="2024-02-24T02:51:54.664248Z" visited="2024-02-24T02:27:44.399397Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-24T02:27:44.646246Z" count="2"/>
+          <bookmark:application name="Boxes" exec="&apos;gnome-boxes %u&apos;" modified="2024-02-24T02:51:54.664235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/archlinux-2024.02.01-x86_64.iso" added="2024-02-24T12:30:46.866545Z" modified="2024-02-24T12:30:46.866557Z" visited="2024-02-24T12:30:46.866547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-24T12:30:46.866551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/base16-mocha.xml" added="2024-02-25T01:00:22.471694Z" modified="2024-02-25T01:00:22.722650Z" visited="2024-02-25T01:00:22.471695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-25T01:00:22.722645Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/mocha.yaml" added="2024-02-25T01:10:46.342716Z" modified="2024-02-25T02:00:57.178069Z" visited="2024-02-25T01:10:46.342720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2024-02-25T02:00:57.178065Z" count="6"/>
+          <bookmark:application name="com.github.themix_project.Oomox" exec="&apos;gio open %u&apos;" modified="2024-02-25T02:00:57.091771Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/config.yaml" added="2024-02-25T01:18:59.837047Z" modified="2024-02-25T01:19:00.086476Z" visited="2024-02-25T01:18:59.837050Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-25T01:19:00.086472Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/default.mustache" added="2024-02-25T01:19:06.782117Z" modified="2024-02-25T01:19:07.032188Z" visited="2024-02-25T01:19:06.782119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-25T01:19:07.032182Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/.config/frescobaldi/themes/base16-rose-pine.xml" added="2024-02-25T01:45:13.211304Z" modified="2024-02-25T01:45:13.462379Z" visited="2024-02-25T01:45:13.211306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-25T01:45:13.462374Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/.config/frescobaldi/themes/base16-default-dark.xml" added="2024-02-25T01:45:43.084538Z" modified="2024-02-25T01:45:43.335613Z" visited="2024-02-25T01:45:43.084540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-25T01:45:43.335606Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/openSUSE-Tumbleweed-NET-x86_64-Snapshot20240223-Media.iso" added="2024-02-25T23:54:49.340511Z" modified="2024-02-25T23:57:15.568279Z" visited="2024-02-25T23:54:49.340512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2024-02-25T23:54:49.577392Z" count="2"/>
+          <bookmark:application name="gnome-disks" exec="&apos;gnome-disks %u&apos;" modified="2024-02-25T23:57:15.568273Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/openSUSE-Tumbleweed-DVD-x86_64-Snapshot20240225-Media.iso" added="2024-02-27T01:42:42.487121Z" modified="2024-02-27T01:42:42.487140Z" visited="2024-02-27T01:42:42.487124Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-27T01:42:42.487131Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alex/Downloads/openSUSE-Leap-15.5-DVD-x86_64-Build491.1-Media.iso" added="2024-02-27T01:43:09.561954Z" modified="2024-02-27T01:43:09.561972Z" visited="2024-02-27T01:43:09.561956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-02-27T01:43:09.561964Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

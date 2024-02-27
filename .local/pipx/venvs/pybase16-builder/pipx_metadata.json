@@ -1,0 +1,40 @@
+{
+    "injected_packages": {},
+    "main_package": {
+        "app_paths": [
+            {
+                "__Path__": "/home/alex/.local/pipx/venvs/pybase16-builder/bin/pybase16",
+                "__type__": "Path"
+            }
+        ],
+        "app_paths_of_dependencies": {
+            "pystache": [
+                {
+                    "__Path__": "/home/alex/.local/pipx/venvs/pybase16-builder/bin/pystache",
+                    "__type__": "Path"
+                },
+                {
+                    "__Path__": "/home/alex/.local/pipx/venvs/pybase16-builder/bin/pystache-test",
+                    "__type__": "Path"
+                }
+            ]
+        },
+        "apps": [
+            "pybase16"
+        ],
+        "apps_of_dependencies": [
+            "pystache",
+            "pystache-test"
+        ],
+        "include_apps": true,
+        "include_dependencies": false,
+        "package": "pybase16-builder",
+        "package_or_url": "pybase16-builder",
+        "package_version": "0.2.8",
+        "pip_args": [],
+        "suffix": ""
+    },
+    "pipx_metadata_version": "0.2",
+    "python_version": "Python 3.11.2",
+    "venv_args": []
+}

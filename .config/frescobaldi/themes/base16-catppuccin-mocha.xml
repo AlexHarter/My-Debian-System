@@ -1,0 +1,46 @@
+<frescobaldi-theme name="#catppuccin-mocha">
+  <!--
+  Created by base16-frescobaldi
+  Author: #Alex Harter
+-->
+  <font fontFamily="monospace" fontSize="10.0" />
+  <baseColors>
+    <text color="#d7dae0" />
+    <background color="#1e1e28" />
+    <selectiontext color="#f5e0dc" />
+    <selectionbackground color="#7a7c83" />
+    <current color="#1a1826" />
+    <mark color="#302d41" />
+    <error color="#1a1826" />
+    <search color="#" />
+    <match color="#32323c" />
+    <paper color="#1a1826" />
+    <musichighlight color="#7a7c83" />
+  </baseColors>
+  <defaultStyles>
+    <string textColor="#f28fad" />
+    <escape textColor="#f8bd96" />
+    <comment italic="True" textColor="#7a7c83" />
+    <value textColor="#fae3b0" />
+    <variable textColor="#abe9b3" />
+    <keyword bold="True" />
+    <function bold="True" textColor="#96cdfb" />
+    <error textColor="#ddb6f2" underline="True" underlineColor="#ddb6f2" />
+  </defaultStyles>
+  <allStyles>
+    <lilypond>
+      <duration textColor="#f8bd96" />
+      <dynamic bold="True" textColor="#96cdfb" />
+      <articulation bold="True" textColor="#f8bd96" />
+      <fingering textColor="#abe9b3" />
+      <stringnumber textColor="#f8bd96" />
+      <slur bold="True" />
+      <markup bold="False" textColor="#fae3b0" />
+      <lyricmode textColor="#96cdfb" />
+      <lyrictext textColor="#d7dae0" />
+      <context bold="True" />
+      <grob textColor="#d7dae0" />
+    </lilypond>
+  </allStyles>
+</frescobaldi-theme>
+
